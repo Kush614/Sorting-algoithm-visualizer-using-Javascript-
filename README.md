@@ -1,7 +1,8 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
-> [Live demo](https://shubh67678.github.io/sorting-visualizer/)
+![sort](https://user-images.githubusercontent.com/67098940/148580941-894ad3b0-7498-4a45-8e94-9830510764ad.gif)
+
+> [Live deployment](https://kush614.github.io/Sorting-algoithm-visualizer-using-Javascript-/)
 
 ---
 
@@ -37,8 +38,6 @@ Useful links discribing the algorithms used
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
-
-[Back To The Top](#read-me-template)
 
 ---
 
